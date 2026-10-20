@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>Spoke - propuestas de icono</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="_03___Ruta" data-name="03 · Ruta" d="M124 20 L388 20 C445.438 20 492 66.562 492 124 L492 388 C492 445.438 445.438 492 388 492 L124 492 C66.562 492 20 445.438 20 388 L20 124 C20 66.562 66.562 20 124 20 Z" fill="#09282b" stroke="#173e3d" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Ruta___pin" data-name="Ruta · pin" d="M256 378 C225 329 166 264 166 195 C166 144 207 102 256 102 C305 102 346 144 346 195 C346 264 287 329 256 378 Z" fill="none" stroke="#c7f464" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Ruta___recorrido" data-name="Ruta · recorrido" d="M256 299 L256 247 C256 223 224 220 224 195 C224 173 240 158 256 158 C272 158 288 173 288 195" fill="none" stroke="#f0f4e6" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Ruta___punto_final" data-name="Ruta · punto final" d="M242 158 C242 150.268 248.268 144 256 144 C263.732 144 270 150.268 270 158 C270 165.732 263.732 172 256 172 C248.268 172 242 165.732 242 158 Z" fill="#c7f464"/>
+  </g>
+</svg>

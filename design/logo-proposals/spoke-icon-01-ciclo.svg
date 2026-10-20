@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>Spoke - propuestas de icono</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="_01___Ciclo" data-name="01 · Ciclo" d="M124 20 L388 20 C445.438 20 492 66.562 492 124 L492 388 C492 445.438 445.438 492 388 492 L124 492 C66.562 492 20 445.438 20 388 L20 124 C20 66.562 66.562 20 124 20 Z" fill="#09282b" stroke="#173e3d" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Ciclo___rueda_trasera" data-name="Ciclo · rueda trasera" d="M84 340 C84 307.967 109.967 282 142 282 C174.033 282 200 307.967 200 340 C200 372.033 174.033 398 142 398 C109.967 398 84 372.033 84 340 Z" fill="none" stroke="#f0f4e6" stroke-width="11" stroke-miterlimit="10"/>
+    <path id="Ciclo___rueda_delantera" data-name="Ciclo · rueda delantera" d="M309 340 C309 307.967 334.967 282 367 282 C399.033 282 425 307.967 425 340 C425 372.033 399.033 398 367 398 C334.967 398 309 372.033 309 340 Z" fill="none" stroke="#f0f4e6" stroke-width="11" stroke-miterlimit="10"/>
+    <path id="Ciclo___cuadro" data-name="Ciclo · cuadro" d="M142 340 L266 340 L220 260 L142 340 M220 260 L322 260 L266 340 M322 260 L367 340 M220 260 L207 239 L235 239 M322 260 L342 242 L361 242" fill="none" stroke="#c7f464" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Ciclo___eje" data-name="Ciclo · eje" d="M254 340 C254 333.373 259.373 328 266 328 C272.627 328 278 333.373 278 340 C278 346.627 272.627 352 266 352 C259.373 352 254 346.627 254 340 Z" fill="#c7f464"/>
+  </g>
+</svg>

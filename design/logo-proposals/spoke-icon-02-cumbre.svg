@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>Spoke - propuestas de icono</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="_02___Cumbre" data-name="02 · Cumbre" d="M124 20 L388 20 C445.438 20 492 66.562 492 124 L492 388 C492 445.438 445.438 492 388 492 L124 492 C66.562 492 20 445.438 20 388 L20 124 C20 66.562 66.562 20 124 20 Z" fill="#09282b" stroke="#173e3d" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Cumbre___aro" data-name="Cumbre · aro" d="M96 256 C96 167.634 167.634 96 256 96 C344.366 96 416 167.634 416 256 C416 344.366 344.366 416 256 416 C167.634 416 96 344.366 96 256 Z" fill="none" stroke="#c7f464" stroke-width="12" stroke-miterlimit="10"/>
+    <path id="Cumbre___perfil" data-name="Cumbre · perfil" d="M138 348 L218 246 L264 292 L339 185 L380 348 Z" fill="none" stroke="#c7f464" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Cumbre___trazado" data-name="Cumbre · trazado" d="M158 349 C188 327 198 295 219 278 C239 261 251 287 269 274 C295 255 307 219 339 185" fill="none" stroke="#f0f4e6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Cumbre___llegada" data-name="Cumbre · llegada" d="M326 185 C326 177.82 331.82 172 339 172 C346.18 172 352 177.82 352 185 C352 192.18 346.18 198 339 198 C331.82 198 326 192.18 326 185 Z" fill="#f0f4e6"/>
+    <path id="Cumbre___inicio" data-name="Cumbre · inicio" d="M146 349 C146 342.373 151.373 337 158 337 C164.627 337 170 342.373 170 349 C170 355.627 164.627 361 158 361 C151.373 361 146 355.627 146 349 Z" fill="#c7f464" stroke="#09282b" stroke-width="5" stroke-miterlimit="10"/>
+  </g>
+</svg>

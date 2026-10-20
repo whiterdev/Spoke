@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>Spoke - propuestas de icono</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="_04___Spoke" data-name="04 · Spoke" d="M124 20 L388 20 C445.438 20 492 66.562 492 124 L492 388 C492 445.438 445.438 492 388 492 L124 492 C66.562 492 20 445.438 20 388 L20 124 C20 66.562 66.562 20 124 20 Z" fill="#c7f464"/>
+    <path id="Spoke___rueda_uno" data-name="Spoke · rueda uno" d="M124 256 C124 183.098 183.098 124 256 124 C328.902 124 388 183.098 388 256 C388 328.902 328.902 388 256 388 C183.098 388 124 328.902 124 256 Z" fill="none" stroke="#09282b" stroke-width="22" stroke-miterlimit="10"/>
+    <path id="Spoke___rueda_dos" data-name="Spoke · rueda dos" d="M284 336 C284 307.281 307.281 284 336 284 C364.719 284 388 307.281 388 336 C388 364.719 364.719 388 336 388 C307.281 388 284 364.719 284 336 Z" fill="none" stroke="#09282b" stroke-width="20" stroke-miterlimit="10"/>
+    <path id="Spoke___trazado" data-name="Spoke · trazado" d="M156 356 C176 295 221 227 280 194 C313 175 344 170 371 177" fill="none" stroke="#f0f4e6" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Spoke___salida" data-name="Spoke · salida" d="M143 356 C143 348.82 148.82 343 156 343 C163.18 343 169 348.82 169 356 C169 363.18 163.18 369 156 369 C148.82 369 143 363.18 143 356 Z" fill="#09282b"/>
+    <path id="Spoke___llegada" data-name="Spoke · llegada" d="M359 178 C359 170.82 364.82 165 372 165 C379.18 165 385 170.82 385 178 C385 185.18 379.18 191 372 191 C364.82 191 359 185.18 359 178 Z" fill="#09282b"/>
+  </g>
+</svg>
